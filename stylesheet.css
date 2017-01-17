@@ -1,3 +1,12 @@
+body {
+  width: 790px;
+}
+
+#myCarousel {
+  width: 790px;
+  height: 157px; 
+}
+
 img {
   float: center;
 }
@@ -12,8 +21,5 @@ h3 {
   text-align: center;
 }
 
-#myCarousel {
-  width: 790px;
-  height: 157px; 
-  margin-right: 80px;
-}
+
+
