@@ -11,3 +11,7 @@ h3 {
   size: 15px;
   text-align: center;
 }
+
+#myCarousel {
+  width: 200px;
+}
